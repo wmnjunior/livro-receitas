@@ -1,5 +1,6 @@
-#Livro de Receitas :)
+#Livro de Receitas
 
 ###Olá Bem vindo ao meu livro de receitas!
 
-- Strogonoff de Frango
+ - Strogonoff de Frango
+ - Pavê
